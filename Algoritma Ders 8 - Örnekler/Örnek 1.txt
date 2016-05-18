@@ -1,0 +1,1 @@
+Kullanıcıdan iki giriş alan algoritmayı yazınız.

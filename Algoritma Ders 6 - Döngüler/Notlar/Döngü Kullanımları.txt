@@ -1,15 +1,24 @@
+Döngülerimiz for , While, do while
 
+Kullanım biçimleri
 
+for(Başlangıç; Şart; Her bir dönüşte olacak olay){
 
 }
 
+while(Şart){
 
 }
 
 do{
 
+}while(Şart)
 
 
+Açıklama : 
 
+Başlangıç dediğimiz yer, döngünün ilk çalışacağı bölgedir ve genellikle başlangıç noktası burada tanımlanır.
+Şart : Döngü döndükten sonra şartımız sağlanıyorsa tekrar döngüye girer.
+Bitimde olacak olay : Döngünün sonuna geldikten sonra gerçekleşecek bir olayı burada atıyoruz. Burası da genelde şarta sokacağımız değişken üzerinde oynama yaptığımız yerdir.
 
 
