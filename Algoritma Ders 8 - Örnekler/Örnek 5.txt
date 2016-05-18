@@ -1,0 +1,1 @@
+Bir üniversite öğrencisinin ortalaması vize notunun %40’ı, final notunun %60’ı alınarak hesaplanmaktadır. Vize ve final notu girildiğinde ortalamayı bulan algoritmayı yazın.

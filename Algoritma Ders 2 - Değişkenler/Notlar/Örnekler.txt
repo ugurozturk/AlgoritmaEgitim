@@ -1,0 +1,26 @@
+ 
+Char ve String
+ char a='g';
+ string b="deneme";
+ string c=a+b+"Viki"+'m';
+ 
+ 
+ 
+*Bool
+ bool b1=true; 
+ bool b2=false; 
+ bool b3=5>4;
+ 
+ 
+*Object
+ object a=5;
+ object b='k';
+ object c="metin";
+ object d=12.7f;
+ 
+ 
+ 
+ 
+*Int ve Double
+ int = 5;
+ double = 5.3;

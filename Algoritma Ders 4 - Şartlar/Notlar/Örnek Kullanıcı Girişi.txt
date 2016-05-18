@@ -1,0 +1,12 @@
+            string kullanici = Console.ReadLine();
+            string sifre = Console.ReadLine();
+
+            if (kullanici == "ugur" && sifre == "123")
+            {
+                Console.WriteLine("Giriþ Yapýldý.");
+            }
+            else
+            {
+                Console.WriteLine("Hata");
+            }
+            Console.ReadKey();

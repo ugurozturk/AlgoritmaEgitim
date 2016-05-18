@@ -1,0 +1,9 @@
+Öncelikle debug olayının her dil için geçerli olduğu bilin. Debug'ın uygulanması, IDE nin verdiği güce bağlı olarak ufak değişiklikler gösterebilir.
+
+
+Debug Nedir ? 
+ * Bir kod yığını yürürken kodun analizini yapmanıza olanak sağlayan yapıdır. Bir değişkenin değerini görmek başlıca özelliğidir. 
+
+Algoritma için önemi nedir ? 
+ * Debug bize kodların yürüşünü gösterir. Kodun nerden nereye, hangi verilerle gittiğini analiz etmemize olanak sağlar.
+Debug, çıkmaz yolda ki merdivendir. O merveni nasıl kullanıcağınız yine size kalmıştır. 

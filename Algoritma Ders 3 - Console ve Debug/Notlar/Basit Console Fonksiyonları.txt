@@ -1,0 +1,12 @@
+Basit ve temelde Algoritmayı C# dilinde anlatmak için 2 adet fonksiyonumuz mevcut.
+
+Bunlar
+ * Console.WriteLine()
+ * Console.ReadLine()
+ 
+ Console.WriteLine() : Bu fonksiyon Console ekranında fonksiyonun içerisine attığınız değerleri yazdırır.
+ Console.ReadLine() : Bu fonksiyon Console ekranından giriler verileri okumak için kullanılır.
+
+
+
+Not : Yazdırmak (Ekran da veriyi göstermek). Okumak (Ekrandan veri girişini döndürmek)

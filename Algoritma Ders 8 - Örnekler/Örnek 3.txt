@@ -1,0 +1,1 @@
+Fiyatı girilen ürüne %18 kdv ekleyerek son fiyatı hesaplayan algoritmayı yazın.

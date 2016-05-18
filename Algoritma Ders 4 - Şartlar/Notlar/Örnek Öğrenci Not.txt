@@ -1,0 +1,24 @@
+int not = Convert.ToInt32(Console.ReadLine());
+            
+            if (not < 0 || not > 100)
+            {
+            }
+            else if (not > 85)
+            {
+                Console.WriteLine("5");
+            }
+            else if (not > 70)
+            {
+                Console.WriteLine("4");
+            }
+            else if(not > 55)
+            {
+                Console.WriteLine("3");
+            }
+            else if (not > 45)
+            {
+            }
+            else 
+            {
+                Console.WriteLine("1");
+            }

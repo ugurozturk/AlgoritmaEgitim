@@ -1,0 +1,3 @@
+Döngüler bir kod olayının belirli bir süre zarfı için tekrar etmesi durumudur. 
+Bu tekrar etme süresi içerisinde döngünün içerisinde değişkenlere bağlı farklılaşmalar olabilir.
+Bir kodu binlerce kez tekrar tekrar yazmak yerine döngü ile hızlıca ve düzenli bir şekilde ayarlayabiliriz.

@@ -1,0 +1,3 @@
+Sıcaklık birimlerini dönüştürün. Fahrenheit ise f, Celsius ise c girilsin.
+
+Formüller (°F = °C × 1.8 + 32)  (°C = (°F – 32) / 1.8)

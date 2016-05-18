@@ -1,0 +1,4 @@
+Algoritma bir dil değildir. 
+Algoritma düşünme sanatıdır. Bir olayın süreçleriyle bitimine kadar geçen faaliyet çeşitliliğine algoritma denebilir.
+Belirli bir dil için değil, her dil için gerekli olan bir husustur.
+Algoritmanız ne kadar gelişmiş ise kendinizi o kadar ileriye götürebilirsiniz.

@@ -1,0 +1,48 @@
+ int sayi = 5;
+            string deger = "";
+
+            deger = sayi.ToString();
+
+            string gelenSayi = "15";
+
+            sayi = Convert.ToInt16(gelenSayi);
+            //sayi = int.Parse(gelenSayi);
+
+            byte bSayi = 6;
+            
+            sayi = bSayi;
+
+           
+            
+            //int sayimiz = 72;
+
+            //if (sayimiz > 100 || sayimiz < 0)
+            //{
+            //    Console.WriteLine("Hata : Sayı 0 ile 100 arasında olmalıdır.");
+            //}
+            //else if (sayimiz >= 85 && sayimiz <= 100)
+            //{
+            //    Console.WriteLine("5");
+            //}
+            //else if (sayimiz > 69 && sayimiz < 84)
+            //{
+            //    Console.WriteLine("4");
+            //}
+            //else if (sayimiz >= 55 && sayimiz < 70)
+            //{
+            //    Console.WriteLine("3");
+            //}
+            //else if (sayimiz >= 45 && sayimiz < 55)
+            //{
+            //    Console.WriteLine("2");
+            //}
+            //else if (sayimiz >= 0 && sayimiz < 45)
+            //{
+            //    Console.WriteLine("1");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("Hata");
+            //}
+
+            Console.ReadKey();
